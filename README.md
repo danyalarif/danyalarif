@@ -1,4 +1,4 @@
-<h1>Hello I am Danyal Arif, A software engineer</h1>
+<h1>Hello I am Danyal Arif, a software engineer</h1>
 - 👩‍💻 I'm currently in 8th semester of Bachelors of Science in Computer Science at Comsats University Islamabad.<br>
 - 🔭 I’m currently working on my final year project in MERN stack.<br>
 - 🌱 I’m currently learning NEST.JS and NEXT.JS along with expanding my knowledge further in MERN stack.<br>
@@ -7,7 +7,6 @@
 - 📫 My LinkedIn profile: https://www.linkedin.com/in/danyal-arif-360b44226/<br>
 
 ## Tech Stack
-
 <p align="center">
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="55" height="55"/> </a>
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="55" height="55"/> </a>
@@ -28,4 +27,14 @@
 <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" alt="nodejs" width="55" height="55"/> </a>
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="55" height="55"/> </a>
 <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="55" height="55"/> </a>
+</p>
+
+## GitHub Analytics
+
+<p align="center">
+	<a href="https://github.com/danyalarif">
+<!-- 		<img height="180em" src="https://github-readme-stats.vercel.app/api?username=iqrasarwar&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/> -->
+		<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=danyalarif&layout=compact&langs_count=8&theme=algolia"/>
+	</a>
+	<img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=danyalarif&show_icons=true&locale=en&layout=demo&theme=algolia" />
 </p>
