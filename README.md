@@ -4,4 +4,4 @@
 - 🌱 I’m currently learning NEST.JS and NEXT.JS along with expanding my knowledge further in MERN stack.
 - 👯 I’m looking to collaborate on web development projects.
 - 👀 I’m interested in web development.
-- 📫 My LinkedIn profile: https://www.linkedin.com/in/fatimahanif303/
+- 📫 My LinkedIn profile: https://www.linkedin.com/in/danyal-arif-360b44226/
