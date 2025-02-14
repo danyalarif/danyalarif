@@ -1,5 +1,5 @@
 <h1>Hello I am Danyal Arif, a software engineer</h1>
-- 👩‍💻 I'm currently working as a Full Stack Engineer at Cowlar Design Studio.<br>
+- 👩‍💻 I'm currently working as a Full Stack Engineer at Azm development.<br>
 - 🌱 I’m currently learning Microservices architecture along with expanding my knowledge further in C#, .NET Core, and Angular.<br>
 - 👯 I’m looking to collaborate on web development projects.<br>
 - 👀 I’m interested in web development.<br>
